@@ -6,11 +6,6 @@
 - ⚡ Fun fact: I like to have a cold beer, practice physical exercises, a good game and a code to beat my head.
 
 <div>
-  <h3>🔥 My Github Streak </h3>
-  <a href="https://github.com/JoalissonMarques"><img alt="Joalisson's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=JoalissonMarques&theme=radical&date_format=M%20j%5B%2C%20Y%5D" /></a>
-</div>
-
-<div>
   <a href="https://github.com/joalissonmarques"  align="center">
      <h3>📊 My Github Stats <h3> 
       <a href="https://github.com/joalissonmarques"><img alt="Joalisson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JoalissonMarques&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="180"  witdh="550" /></a>
