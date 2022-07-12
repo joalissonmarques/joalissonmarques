@@ -1,9 +1,18 @@
-<h2 >Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Joalisson</h2>
+<h2 align='center'>Hello everyone, I'm Joalisson </h2>
+
+<h4 align='center'>
+
+![Programming](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
+
+<hr>
+
 <h3 >I'm a passionate Developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **English💜**
+</h4>
+
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joalisson-marques-jgm/)](https://www.linkedin.com/in/joalisson-marques-jgm/)
 - ⚡ Fun fact: I like to have a cold beer, practice physical exercises, a good game and a code to beat my head.
+- 🤯 I'm dedicating myself to becoming a Full Stack Developer, a difficult path, but nothing impossible.
 
 <div>
   <a href="https://github.com/joalissonmarques"  align="center">
@@ -15,8 +24,6 @@
 </div>
   
 <h3>⚡ Favorite Technologies</h3> 
-
-<!-- TODO: Make technologies links takes you to repositories -->
 
 <p align="center">
   <a href="https://skillicons.dev">
