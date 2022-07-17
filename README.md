@@ -2,7 +2,8 @@
 
 <h4 align='center'>
 
-![Programming](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
+![programação](https://user-images.githubusercontent.com/44754105/179411124-b1170c31-91a6-4efd-bacb-34e7d8cb1e33.gif)
+
 
 <hr>
 
