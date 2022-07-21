@@ -24,7 +24,7 @@
    </a>
 </div>
   
-<h3>⚡ Favorite Technologies</h3> 
+<h3>⚡Technologies</h3> 
 
 <p align="center">
   <a href="https://skillicons.dev">
