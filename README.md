@@ -9,8 +9,6 @@
 <div align="center">
   <a href="https://github.com/joalissonmarques"  align="center">
      <h3>📊 My Github Stats <h3> 
-
-      <br/>
    </a>
 </div>
   
